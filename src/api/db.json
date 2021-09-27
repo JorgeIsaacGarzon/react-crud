@@ -1,0 +1,29 @@
+{
+  "persons": [
+    {
+      "id": 1,
+      "name": "Jorge M.",
+      "country": "Costa Rica"
+    },
+    {
+      "id": 2,
+      "name": "Jefferson L.",
+      "country": "USA"
+    },
+    {
+      "id": 3,
+      "name": "Eunice M.",
+      "country": "Canada"
+    },
+    {
+      "id": 4,
+      "name": "Madelyn P.",
+      "country": "USA"
+    },
+    {
+      "id": 5,
+      "name": "Carlos C.",
+      "country": "Spain"
+    }
+  ]
+}
